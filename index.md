@@ -1,2 +1,2 @@
 - [Home](Home.md)
-- [Documents](Documents/FOC architecture.md)
+- [Documents](FOC_architecture.md)
