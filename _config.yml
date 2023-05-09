@@ -1,3 +1,5 @@
 title: My Github Pages Website
 description: This is a poc on Github Pages
 theme: jekyll-theme-minimal
+nav:
+  - Home: Home.md  
